@@ -3,7 +3,7 @@ import googleAPI from "../utils/googleAPI";
 import { Col, Row, Container } from "../components/Grid";
 import { List, ListItem } from "../components/List";
 import { Input, FormBtn } from "../components/Form";
-import Jumbotron from "../components/Jumbotron";
+import { Jumbotron } from "../components/Jumbotron";
 import dbAPI from "../utils/dbAPI";
 
 class Search extends Component {
